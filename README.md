@@ -1,4 +1,4 @@
-## Hey Everyone! 🤙
+### Hey Everyone! 🤙
 I am Paolo Martin Ligsay, a Front-end Developer at [Code and Theory][c&t] based in the Philippines. I am very enthusiastic towards design and programming 🎨 
 
 <br>
