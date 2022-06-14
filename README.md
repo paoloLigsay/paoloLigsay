@@ -25,5 +25,5 @@ I am Paolo Martin Ligsay, a Front-end Developer at [Code and Theory][c&t] based 
 
 [c&t]: https://www.codeandtheory.com/
 [githubStats]: https://github-readme-stats.vercel.app/api?username=paoloLigsay&theme=react&show_icons=true&count_private=true&hide_title=true&hide_border=true&icon_color=8F5ADB&title_color=8F5ADB
-[topLang]: https://github-readme-stats.vercel.app/api/top-langs/?username=paoloLigsay&layout=default&theme=react&hide=html&hide_border=true&card_width=350&langs_count=2&custom_title=Most%20Used%20Languages&title_color=fff
+[topLang]: https://github-readme-stats.vercel.app/api/top-langs/?username=paoloLigsay&layout=default&theme=react&hide=html&hide_border=true&card_width=300&langs_count=2&custom_title=Most%20Used%20Languages&title_color=fff
 [githubActivity]: https://activity-graph.herokuapp.com/graph?username=paoloLigsay&theme=dracula
