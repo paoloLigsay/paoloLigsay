@@ -1,15 +1,17 @@
 ### Hey Everyone! 🤙
-I am Paolo Martin Ligsay, a Front-end Developer at [Code and Theory][c&t] based in the Philippines. I am very enthusiastic towards design and programming 🎨 
+I am Paolo Martin Ligsay, a Front-end Developer at [Code and Theory][c&t] based in the Philippines. 👋
 
 <br>
 
+![Paolo's GitHub stats][githubStats]
+![Paolo's Top Languages][topLang]
 ```js
   const paolo = {
     company: 'Code and Theory',
     location: 'Philippines',
     pronouns: 'He | His',
-    color: 'yellow | mustard',
-    position: 'Front-end Developer',
+    color: 'Yellow | Mustard',
+    position: 'FrontEnd Developer',
     hobbies: [
         'Cooking 👨‍🍳', 
         'Watching reality cooking shows on Netflix 📺', 
@@ -17,13 +19,11 @@ I am Paolo Martin Ligsay, a Front-end Developer at [Code and Theory][c&t] based 
   }
 ```
 
-<!-- ![Paolo Ligsay's github activity graph](https://activity-graph.herokuapp.com/graph?username=paoloLigsay&theme=dracula)
+![Paolo Ligsay's github activity graph][githubActivity]
 
-
-![Paolo](https://denvercoder1-github-readme-stats.vercel.app/api/?username=paoloLigsay&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=292D3E&title_color=ab47bc&icon_color=c792ea)
-
-![Paolo](https://github-readme-stats.vercel.app/api/top-langs/?username=paoloLigsay&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=292D3E&title_color=fff&icon_color=ab47bc&hide=Jupyter%20Notebook)
-
--->
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paoloLigsay&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) -->
 
 [c&t]: https://www.codeandtheory.com/
+[githubStats]: https://github-readme-stats.vercel.app/api?username=paoloLigsay&theme=react&show_icons=true&count_private=true&hide_title=true&hide_border=true&icon_color=8F5ADB&title_color=8F5ADB
+[topLang]: https://github-readme-stats.vercel.app/api/top-langs/?username=paoloLigsay&layout=default&theme=react&hide=html&hide_border=true&card_width=350&langs_count=2&custom_title=Most%20Used%20Languages&title_color=fff
+[githubActivity]: https://activity-graph.herokuapp.com/graph?username=paoloLigsay&theme=dracula
