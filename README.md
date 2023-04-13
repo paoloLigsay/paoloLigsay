@@ -19,9 +19,10 @@ I am Paolo Martin Ligsay, a Front-end Developer at [Code and Theory][c&t] based 
   }
 ```
 
-![Paolo Ligsay's github activity graph][githubActivity]
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paoloLigsay&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) -->
 
 [c&t]: https://www.codeandtheory.com/
 [githubStats]: https://github-readme-stats.vercel.app/api?username=paoloLigsay&theme=react&show_icons=true&count_private=true&hide_title=true&hide_border=true&icon_color=8F5ADB&title_color=8F5ADB
