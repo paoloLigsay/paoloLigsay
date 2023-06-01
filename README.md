@@ -3,7 +3,7 @@ I'm Paolo Ligsay, a Front-end Developer at [Code and Theory][c&t] based in the P
 
 <br>
 
-![Paolo's GitHub stats][githubStats]
+<!-- ![Paolo's GitHub stats][githubStats] -->
 ![Paolo's Top Languages][topLang]
 ```js
   const paolo = {
