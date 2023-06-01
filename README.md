@@ -3,8 +3,6 @@ I'm Paolo Ligsay, a Front-end Developer at [Code and Theory][c&t] based in the P
 
 <br>
 
-<!-- ![Paolo's GitHub stats][githubStats] -->
-![Paolo's Top Languages][topLang]
 ```js
   const paolo = {
     company: 'Code and Theory',
@@ -40,6 +38,8 @@ I'm Paolo Ligsay, a Front-end Developer at [Code and Theory][c&t] based in the P
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
+<!-- ![Paolo's GitHub stats][githubStats] -->
+![Paolo's Top Languages][topLang]
 
 [c&t]: https://www.codeandtheory.com/
 [githubStats]: https://github-readme-stats.vercel.app/api?username=paoloLigsay&theme=react&show_icons=true&count_private=true&hide_title=true&hide_border=true&icon_color=8F5ADB&title_color=8F5ADB
