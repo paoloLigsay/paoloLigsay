@@ -1,22 +1,11 @@
 ### Hi! 👋
-I'm Paolo Ligsay, a Front-end Developer at [Code and Theory][c&t] based in the Philippines. 👋
+I'm Paolo Ligsay 👋 a passionate and dedicated FrontEnd developer with around 4 years of experience in front-end development 👨‍💻 I have had the opportunity to work with various technologies and frameworks, allowing me to adapt and learn quickly ⚡️
 
-<br>
+Recently, I have learned to give importance to accessibility (a11y) which I consider now as a core principle that guides my work. I strongly believe that digital experiences should be inclusive and accessible to all users, regardless of their abilities. I prioritise implementing accessible design principles and following WCAG guidelines to ensure that my projects are usable and enjoyable for everyone. 🤝🧑‍🦯
 
-```js
-  const paolo = {
-    company: 'Code and Theory',
-    location: 'Philippines',
-    pronouns: 'He | His',
-    color: 'Yellow | Mustard',
-    position: 'FrontEnd Developer',
-    hobbies: [
-        'Cooking 👨‍🍳', 
-        'Working out 🎧'],
-  }
-```
+In my journey as a front-end developer 🚊 I have acquired enough experience in various technologies, including the following languages and frameworks below ⚒️ These tools enable me to build robust and dynamic web applications, leveraging the power of modern web development to deliver exceptional user experiences. 💻
 
-## ⚙️Development Tools I worked with
+## ⚙️Languages, Frameworks and Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -37,6 +26,23 @@ I'm Paolo Ligsay, a Front-end Developer at [Code and Theory][c&t] based in the P
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+Although it may appear that I possess extensive knowledge of various technologies, I want to think of myself as Technology-Agnostic and I do not favour any specific platform or system. I don't limit myself to a specific set of technologies or frameworks. 📚 Instead, I prioritise understanding the fundamentals and core principles of web development specially JavaScript. I firmly believe that being technology-agnostic promotes a more holistic and client-centered approach. 🙋‍♂️🙋‍♀️
+
+<br/>
+
+```js
+  const paolo = {
+    company: 'Code and Theory',
+    location: 'Philippines',
+    pronouns: 'He | His',
+    color: 'Yellow | Mustard',
+    position: 'FrontEnd Developer',
+    hobbies: [
+        'Cooking 👨‍🍳', 
+        'Working out 🎧'],
+  }
+```
 
 <!-- ![Paolo's GitHub stats][githubStats] -->
 ![Paolo's Top Languages][topLang]
