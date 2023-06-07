@@ -51,7 +51,7 @@ Although it may appear that I possess extensive knowledge of various technologie
 ```
 
 <!-- ![Paolo's GitHub stats][githubStats] -->
-![Paolo's Top Languages][topLang]
+<!-- ![Paolo's Top Languages][topLang] -->
 
 [c&t]: https://www.codeandtheory.com/
 [githubStats]: https://github-readme-stats.vercel.app/api?username=paoloLigsay&theme=react&show_icons=true&count_private=true&hide_title=true&hide_border=true&icon_color=8F5ADB&title_color=8F5ADB
