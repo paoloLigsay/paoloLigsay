@@ -39,7 +39,6 @@ Although it may appear that I possess extensive knowledge of various technologie
 
 ```js
   const paolo = {
-    company: 'Code and Theory',
     location: 'Philippines',
     pronouns: 'He | His',
     color: 'Yellow | Mustard',
