@@ -1,9 +1,9 @@
 ### Hi! 👋
 Hello, I'm Paolo Ligsay, a dedicated Software Engineer with 5 years of experience in web development. My expertise is primarily focused on React.js and Next.js, with recent projects involving AI-powered solutions using OpenAI and LangChain. While I specialize in these technologies, I remain open to exploring and working with other tech stacks as project needs dictate.
 
-Throughout my career, I've maintained a strong commitment to accessibility (a11y), ensuring that digital experiences are inclusive and user-friendly for all. By implementing accessible design principles and adhering to WCAG guidelines, I strive to create applications that are not only functional but also accessible to users of all abilities.
+## Tech Stack
 
-## ⚙️Languages, Frameworks, Tools and Design
+My professional toolkit is centered around modern web technologies, with a primary focus on React.js and Next.js ecosystems. Here's an overview of the key technologies I work with:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -34,7 +34,7 @@ Throughout my career, I've maintained a strong commitment to accessibility (a11y
 [![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/)
 
-Although it may appear that I possess extensive knowledge of various technologies, I want to think of myself as Technology-Agnostic and I do not favour any specific platform or system. I don't limit myself to a specific set of technologies or frameworks. 📚 Instead, I prioritise understanding the fundamentals and core principles of web development specially JavaScript. I firmly believe that being technology-agnostic promotes a more holistic and client-centered approach. 🙋‍♂️🙋‍♀️
+While I'm currently focused on React.js and Next.js, I'm always open to exploring and working with other technologies as project needs dictate. This approach allows me to stay current with industry trends and provide the most effective solutions for each unique project requirement.
 
 <br/>
 
@@ -43,17 +43,11 @@ Although it may appear that I possess extensive knowledge of various technologie
     location: 'Philippines',
     pronouns: 'He | His',
     color: 'Yellow | Mustard',
-    position: 'FrontEnd Developer',
+    position: 'Software Engineer',
     hobbies: [
         'Cooking 👨‍🍳', 
         'Working out 🎧'],
   }
 ```
 
-<!-- ![Paolo's GitHub stats][githubStats] -->
-<!-- ![Paolo's Top Languages][topLang] -->
 
-[c&t]: https://www.codeandtheory.com/
-[githubStats]: https://github-readme-stats.vercel.app/api?username=paoloLigsay&theme=react&show_icons=true&count_private=true&hide_title=true&hide_border=true&icon_color=8F5ADB&title_color=8F5ADB
-[topLang]: https://github-readme-stats.vercel.app/api/top-langs/?username=paoloLigsay&layout=default&theme=react&hide=html&hide_border=true&card_width=300&langs_count=2&custom_title=Most%20Used%20Languages&title_color=fff
-[githubActivity]: https://activity-graph.herokuapp.com/graph?username=paoloLigsay&theme=dracula
