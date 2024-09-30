@@ -1,21 +1,22 @@
 ### Hi! 👋
-I'm Paolo Ligsay 👋 a passionate and dedicated FrontEnd developer with around 4 years of experience in front-end development 👨‍💻 I have had the opportunity to work with various technologies and frameworks, allowing me to adapt and learn quickly ⚡️
+Hello, I'm Paolo Ligsay, a dedicated Software Engineer with 5 years of experience in web development. My expertise is primarily focused on React.js and Next.js, with recent projects involving AI-powered solutions using OpenAI and LangChain. While I specialize in these technologies, I remain open to exploring and working with other tech stacks as project needs dictate.
 
-Recently, I have learned to give importance to accessibility (a11y) which I consider now as a core principle that guides my work. I strongly believe that digital experiences should be inclusive and accessible to all users, regardless of their abilities. I prioritise implementing accessible design principles and following WCAG guidelines to ensure that my projects are usable and enjoyable for everyone. 🤝🧑‍🦯
-
-In my journey as a front-end developer 🚊 I have acquired enough experience in various technologies, including the following languages and frameworks below ⚒️ These tools enable me to build robust and dynamic web applications, leveraging the power of modern web development to deliver exceptional user experiences. 💻
+Throughout my career, I've maintained a strong commitment to accessibility (a11y), ensuring that digital experiences are inclusive and user-friendly for all. By implementing accessible design principles and adhering to WCAG guidelines, I strive to create applications that are not only functional but also accessible to users of all abilities.
 
 ## ⚙️Languages, Frameworks, Tools and Design
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&amp;logo=openai&amp;logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&amp;logo=chainlink&amp;logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 [![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 [![Storybook](https://img.shields.io/badge/storybook-%23FF4785.svg?style=for-the-badge&logo=storybook&logoColor=white)](https://storybook.js.org/)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
