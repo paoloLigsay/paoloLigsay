@@ -1,5 +1,5 @@
 ### Hi! 👋
-Hello, I'm Paolo Ligsay, a dedicated Software Engineer with 5 years of experience in web development. My expertise is primarily focused on React.js and Next.js, with recent projects involving AI-powered solutions using OpenAI and LangChain. While I specialize in these technologies, I remain open to exploring and working with other tech stacks as project needs dictate.
+Hello, I'm Paolo Ligsay, a dedicated Software Engineer with 7 years of experience in web development. My expertise is primarily focused on React.js and Next.js, with recent projects involving AI-powered solutions. While I specialize in these technologies, I remain open to exploring and working with other tech stacks as project needs dictate.
 
 ## Tech Stack
 
